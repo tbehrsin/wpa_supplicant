@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Node.js module to interact with wpa_supplicant using dbus",
   "main": "index.js",
+  "os": ["linux"],
   "dependencies": {
     "dbus": "^1.0.0",
     "thunky": "^1.0.2"
